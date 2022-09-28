@@ -8,6 +8,7 @@ A automatic server leaver and unfriender for discord (might need to relocate the
 
 First off you need to download [Python](https://www.python.org/downloads/), a detailed tutorial on how to do that can be found [here.](https://www.youtube.com/watch?v=YKSpANU8jPE)
 If you've done that or already have pyhton installed on your machine zou can head over to your cmd using WIN + R and then just type in "cmd" and hit **OK**. 
+
 ![grafik](https://user-images.githubusercontent.com/81767182/192834873-6b3ba8de-7e14-4c9e-9e56-f1ec44f0dc32.png)
 
 and then type:
