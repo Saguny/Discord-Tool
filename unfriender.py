@@ -2,8 +2,8 @@ import pyautogui
 import time
 
 for i in range(161):
-    pyautogui.click(-473, 207)
-    pyautogui.click(-408, 291)
+    pyautogui.click(x coordinate here, y coordinate here)
+    pyautogui.click(x coordinate here, y coordinate here)
     time.sleep(0.5)
-    pyautogui.click(-820, 575)
+    pyautogui.click(x coordinate here, y coordinate here)
     time.sleep(0.5)
