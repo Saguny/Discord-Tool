@@ -25,9 +25,6 @@ in the console. After that type
 
 and hit enter.
 
-It should look something like this:
-![grafik](https://user-images.githubusercontent.com/81767182/192850299-ad9c6ee8-6b6f-4a41-b725-60a7a04d1a43.png)
-
 
 # **Step Three | Set up Pointer Locations for servers**
 
